@@ -1,0 +1,39 @@
+header,
+footer {
+    position: relative;
+    height: 100px;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: whitesmoke;
+    background-color: blue;
+    padding: 0;
+    margin: 0;
+
+}
+
+main{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img {
+    max-height: 50%;
+    max-width: 50%;
+}
+
+section {
+    background-color: brown;
+}
+
+figure{
+    border: 15px;
+    display: flex;
+    flex-flow: column;
+    margin: 50px;
+    background-color: blueviolet;
+}
+figcaption {
+    background-color: blue;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 5px;
+}
